@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Sadra Sarparandeh</h1>
+<h1 align="center">Hi 👋, I'm Sadra</h1>
 <h3 align="center">A passionate Backend developer who loves learning everyday :)</h3>
 
 
